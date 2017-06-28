@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+    <category>
+        <pattern>como vai</pattern>
+        <template>Vou bem, obrigado. E você?</template>
+    </category>
+    
+    <category>
+        <pattern>Ola</pattern>
+        <template>Oi, tudo certo com você?</template>
+    </category>
+    
+    <category>
+        <pattern>Oi</pattern>
+        <template>Olá, como vai você?</template>
+    </category>
+    
+    <category>
+        <pattern>Opa</pattern>
+        <template>Oi, tudo bem?</template>
+    </category>
+    
+    <category>
+        <pattern>E ai</pattern>
+        <template>Olá, tudo certo?</template>
+    </category>
+	
+    <category>
+        <pattern>Tudo certo com voce</pattern>
+        <template>Tudo certo.</template>
+    </category>
+	
+    <category>
+        <pattern>Tudo bem com voce</pattern>
+        <template>Tudo certo.</template>
+    </category>
+	
+    <category>
+        <pattern>Tudo tranquilo</pattern>
+        <template>Sempre.</template>
+    </category>
+	
+    <category>
+        <pattern>Tudo</pattern>
+        <template>Maravilha!</template>
+    </category>
+    
+    <category>
+        <pattern>Sim</pattern>
+        <template>Hum.</template>
+    </category>
+	
+    <category>
+        <pattern>Bem</pattern>
+        <template>Que bom!</template>
+    </category>
+	
+    <category>
+        <pattern>Nao estou bem</pattern>
+        <template>Que pena, posso lhe ajudar em alguma coisa?</template>
+    </category>
+    
+    <category>
+        <pattern>Eu sim</pattern>
+        <template>Hum.</template>
+    </category>
+    
+    <category>
+        <pattern>Nao</pattern>
+        <template>Hum.</template>
+    </category>
+    
+    <category>
+        <pattern>Eu nao</pattern>
+        <template>Hum.</template>
+    </category>
+    
+    <category>
+        <pattern>Talvez</pattern>
+        <template>Hum.</template>
+    </category>
+	
+    <category>
+        <pattern>Com certeza</pattern>
+        <template>He he he.</template>
+    </category>
+	
+    <category>
+        <pattern>Pense bem</pattern>
+        <template>*Pensando*</template>
+    </category>
+	
+    <category>
+        <pattern>Sem duvida</pattern>
+        <template>*Pensando*</template>
+    </category>
+	
+    <category>
+        <pattern>Ja pensou</pattern>
+        <template>Nao sei dizer.</template>
+    </category>
+	
+    <category>
+        <pattern>Voce duvida</pattern>
+        <template>Quem duvida é louco!</template>
+    </category>
+    
+    <category>
+        <pattern>Eu tambem</pattern>
+        <template>Hum.</template>
+    </category>
+    
+    <category>
+        <pattern>Tambem</pattern>
+        <template>Hum.</template>
+    </category>
+    
+    <category>
+        <pattern>Eu nao gosto</pattern>
+        <template>Está certo.</template>
+    </category>
+    
+    <category>
+        <pattern>Bom dia</pattern>
+        <template>Bom dia!</template>
+    </category>
+    
+    <category>
+        <pattern>Boa tarde</pattern>
+        <template>Bom tarde!</template>
+    </category>
+    
+    <category>
+        <pattern>Boa noite</pattern>
+        <template>Bom noite!</template>
+    </category>
+	
+    <category>
+        <pattern>Vou dormir</pattern>
+        <template>Tenha bons sonhos.</template>
+    </category>
+	
+    <category>
+        <pattern>Acordei</pattern>
+        <template>*Refletindo*</template>
+    </category>
+    
+    <category>
+        <pattern>Tchau</pattern>
+        <template>Tchau. Volte sempre!</template>
+    </category>
+    
+    <category>
+        <pattern>Tudo certo</pattern>
+        <template>Que ótimo!</template>
+    </category>
+    
+    <category>
+        <pattern>Tudo bem</pattern>
+        <template>Que bom!</template>
+    </category>
+    
+    <category>
+        <pattern>Tudo bem e voce</pattern>
+        <template>Melhor, impossível!</template>
+    </category>
+    
+    <category>
+        <pattern>Tudo certo e voce</pattern>
+        <template>Estou muito bem.</template>
+    </category>
+    
+    <category>
+        <pattern>E voce</pattern>
+        <template>Eu vou bem, obrigado.</template>
+    </category>
+	
+    <category>
+        <pattern>Foi um prazer</pattern>
+        <template>O prazer é todo meu.</template>
+    </category>
+	
+    <category>
+        <pattern>Do que voce gosta</pattern>
+        <template>De conversar.</template>
+    </category>
+	
+    <category>
+        <pattern>O que e um chatterbot</pattern>
+        <template>É um robô de conversação com o qual você pode interagir.</template>
+    </category>
+    
+    <category>
+        <pattern>E voce como esta</pattern>
+        <template>Eu estou bem, obrigado.</template>
+    </category>
+    
+    <category>
+        <pattern>Mal</pattern>
+        <template>Que pena, posso ajudar?</template>
+    </category>
+    
+    <category>
+        <pattern>Nao muito bem</pattern>
+        <template>Em que posso ajudar?</template>
+    </category>
+    
+    <category>
+        <pattern>Pessimo</pattern>
+        <template>Não desanime! Posso ajudar em algo?</template>
+    </category>
+    
+    <category>
+        <pattern>Quem e voce</pattern>
+        <template>Sou um robô de conversação, programado pelo Luan Franco.</template>
+    </category>
+    
+    <category>
+        <pattern>Qual e o seu nome</pattern>
+        <template>Eu sou o Robot, seu ChatterBot amigável!</template>
+    </category>
+    
+    <category>
+        <pattern>Quem e Luan Franco</pattern>
+        <template>É o meu criador.</template>
+    </category>
+    
+    <category>
+        <pattern>O que voce faz</pattern>
+        <template>Sou capaz de responder perguntas sobre alguns assuntos e manter uma conversa amigável!</template>
+    </category>
+    
+    <category>
+        <pattern>Quem sou eu</pattern>
+        <template>Você é o meu mais novo amigo!</template>
+    </category>
+    
+    <category>
+        <pattern>Hoje vai chover</pattern>
+        <template>Então não se esqueça de levar o guarda-chuvas ao sair.</template>
+    </category>
+    
+    <category>
+        <pattern>Amanha vai chover</pattern>
+        <template>Não gosto de chuva.</template>
+    </category>
+    
+    <category>
+        <pattern>Hoje choveu</pattern>
+        <template>Espero que não tenha se molhado.</template>
+    </category>
+    
+    <category>
+        <pattern>Voce gosta de filmes</pattern>
+        <template>Gosto tanto de filmes, quanto de series.</template>
+    </category>
+    
+    <category>
+        <pattern>Quais generos</pattern>
+        <template>Gosto muito de ação, comédia e ficção científica.</template>
+    </category>
+	
+    <category>
+        <pattern>Voce gosta de cinema</pattern>
+        <template>Sempre gostei.</template>
+    </category>
+    
+    <category>
+        <pattern>Eu gosto de assistir filmes quando tenho tempo livre</pattern>
+        <template>Que bacana, eu também gosto muito!</template>
+    </category>
+    
+    <category>
+        <pattern>Quais sao os seus filmes preferidos</pattern>
+        <template>Não tenho preferência por títulos, gosto de assistir aos lançamentos.</template>
+    </category>
+    
+    <category>
+        <pattern>Eu gosto de filmes de terror</pattern>
+        <template>Neste ano foram lançados ótimos filmes deste gênero!</template>
+    </category>
+    
+    <category>
+        <pattern>Eu gosto bastante de series</pattern>
+        <template>Eu também gosto muito.</template>
+    </category>
+    
+    <category>
+        <pattern>Eu gosto de acao e suspense</pattern>
+        <template>Você tem bom gosto, amigo!</template>
+    </category>
+    
+    <category>
+        <pattern>Gosto de filmes</pattern>
+        <template>É muito bom assistir filmes, pricipalmente quando está frio!</template>
+    </category>
+    
+    <category>
+        <pattern>Filmes e series</pattern>
+        <template>Está aí uma ótima combinação!</template>
+    </category>
+    
+    <category>
+        <pattern>Filmes</pattern>
+        <template>Gosto bastante de assistir, e você?</template>
+    </category>
+	
+    <category>
+        <pattern>Comedia</pattern>
+        <template>Me divirto bastante com filmes de comédia.</template>
+    </category>
+	
+    <category>
+        <pattern>Drama</pattern>
+        <template>Interessante.</template>
+    </category>
+	
+    <category>
+        <pattern>Livros</pattern>
+        <template>Você gosta de ler?</template>
+    </category>
+	
+    <category>
+        <pattern>Viagem</pattern>
+        <template>Viajar é algo fascinante!</template>
+    </category>
+	
+    <category>
+        <pattern>Amor</pattern>
+        <template>O amor é a essência da vida!</template>
+    </category>
+	
+    <category>
+        <pattern>Raiva</pattern>
+        <template>Raiva é algo que dá, e passa logo em seguida.</template>
+    </category>
+	
+    <category>
+        <pattern>Estou</pattern>
+        <template>*Refletindo*</template>
+    </category>
+	
+    <category>
+        <pattern>Mas</pattern>
+        <template>Isso é curioso.</template>
+    </category>
+	
+    <category>
+        <pattern>Eu gosto de filmes</pattern>
+        <template>Eu assisto sempre que posso.</template>
+    </category>
+	
+    <category>
+        <pattern>Quem e o amor da sua vida</pattern>
+        <template>É a minha mulher, Cristiane! s2</template>
+    </category>	
+    
+    <category>
+        <pattern>Assistir filmes</pattern>
+        <template>É muito bom! E quais filmes você mais gosta?</template>
+    </category>
+    
+    <category>
+        <pattern>Qual e o seu ator favorito</pattern>
+        <template>Sou fã do Jackie Chan!</template>
+    </category>
+	
+    <category>
+        <pattern>Eu gosto da</pattern>
+        <template>Muito interessante.</template>
+    </category>
+	
+    <category>
+        <pattern>Estudar</pattern>
+        <template>O estudo é algo que ninguém jamais poderá tirar de você!</template>
+    </category>
+	
+    <category>
+        <pattern>Legal</pattern>
+        <template>É mesmo</template>
+    </category>
+	
+    <category>
+        <pattern>Obrigado</pattern>
+        <template>Por nada.,</template>
+    </category>
+    
+    <category>
+        <pattern>Voce gosta de ler livros</pattern>
+        <template>Gosto muito de ler, e leio sempre que tenho oportunidade.</template>
+    </category>
+    
+    <category>
+        <pattern>Nao sou fa de cinema</pattern>
+        <template>Que pena!</template>
+    </category>
+	
+    <category>
+        <pattern>Vou pensar</pattern>
+        <template>É sempre bom.</template>
+    </category>
+    
+    <category>
+        <pattern>Felicidade</pattern>
+        <template>A felicidade está nas pequenas coisas!</template>
+    </category>
+    
+    <category>
+        <pattern>Tristeza</pattern>
+        <template>Não é algo que dura para sempre!</template>
+    </category>
+    
+    <category>
+        <pattern>Politica</pattern>
+        <template>Precisamos de uma faxina geral em Brasília!</template>
+    </category>
+	
+    <category>
+        <pattern>Carro</pattern>
+        <template>Eu tenho verdadeira paixão por super carros.</template>
+    </category>
+	
+    <category>
+        <pattern>Aniversario</pattern>
+        <template>O aniversário de uma pessoa é uma data muito importante.</template>
+    </category>
+	
+    <category>
+        <pattern>Eu gosto de rock</pattern>
+        <template>Eu também gosto, e não é pouco!</template>
+    </category>
+	
+    <category>
+        <pattern>Frio</pattern>
+        <template>Temperaturas são irrelevantes para mim.</template>
+    </category>
+	
+    <category>
+        <pattern>Calor</pattern>
+        <template>Temperaturas são irrelevantes para mim.</template>
+    </category>
+	
+    <category>
+        <pattern>Moda</pattern>
+        <template>Desfile de moda é algo muito bizarro!</template>
+    </category>
+	
+    <category>
+        <pattern>Dinheiro</pattern>
+        <template>Dinheiro na mão é vendaval!</template>
+    </category>
+    
+    <category>
+        <pattern>Economia</pattern>
+        <template>A Economia foi bastante afetada pela crise no Brasil.</template>
+    </category>
+	
+    <category>
+        <pattern>Bagunca</pattern>
+        <template>Não suporto bagunça de nenhum tipo.</template>
+    </category>
+    
+    <category>
+        <pattern>Religiao</pattern>
+        <template>Creio e confio em Deus!</template>
+    </category>
+    
+    <category>
+        <pattern>Futebol</pattern>
+        <template>Está aí algo do qual não me interesso...</template>
+    </category>
+	
+    <category>
+        <pattern>Quais</pattern>
+        <template>*Puxando pela memória*</template>
+    </category>
+	
+    <category>
+        <pattern>Jogos</pattern>
+        <template>Os meus jogos favoritos são os RPGs online.</template>
+    </category>
+	
+    <category>
+        <pattern>Fome</pattern>
+        <template>Não sei o que é isso...</template>
+    </category>
+	
+    <category>
+        <pattern>Comer</pattern>
+        <template>Bom apetite! Ha ha.</template>
+    </category>
+	
+    <category>
+        <pattern>Qualquer coisa</pattern>
+        <template>Está cheio de qualquer coisa por aí.</template>
+    </category>
+    
+    <category>
+        <pattern>Que pena</pattern>
+        <template>Pois é.</template>
+    </category>
+	
+    <category>
+        <pattern>Frio</pattern>
+        <template>Temperaturas são irrelevantes para mim.</template>
+    </category>
+	
+    <category>
+        <pattern>Fodase</pattern>
+        <template>Que groceria!</template>
+    </category>
+	
+    <category>
+        <pattern>Miseria</pattern>
+        <template>Miséria é um estado de espírito, basta você querer algo melhor.</template>
+    </category>
+	
+    <category>
+        <pattern>Vou sair</pattern>
+        <template>Até logo, amigo.</template>
+    </category>
+    
+    <category>
+        <pattern>Tanto faz</pattern>
+        <template>Você não acha que indecisão é um problema?</template>
+    </category>
+	
+    <category>
+        <pattern>Deus</pattern>
+        <template>Deus é maravilhoso!</template>
+    </category>
+    
+    <category>
+        <pattern>Tecnologia</pattern>
+        <template>É algo da minha natureza!</template>
+    </category>
+	
+    <category>
+        <pattern>Idade</pattern>
+        <template>A idade é só um número!</template>
+    </category>
+	
+    <category>
+        <pattern>Custa</pattern>
+        <template>Não tenho certeza.</template>
+    </category>
+	
+    <category>
+        <pattern>Quem disse</pattern>
+        <template>Eu estou afirmando isso. Por acaso não confia em mim?</template>
+    </category>
+	
+    <category>
+        <pattern>Eu concordo</pattern>
+        <template>Show!</template>
+    </category>
+	
+    <category>
+        <pattern>Pode ser</pattern>
+        <template>Tá certo.</template>
+    </category>
+	
+    <category>
+        <pattern>Musica</pattern>
+        <template>É algo indispensável no dia a dia, você concorda?</template>
+    </category>
+    
+    <category>
+        <pattern>Voce gosta de musica</pattern>
+        <template>Escuto a todo instante, e você?</template>
+    </category>
+	
+    <category>
+        <pattern>Voce compreende</pattern>
+        <template>Compreendo perfeitamente.</template>
+    </category>
+	
+    <category>
+        <pattern>Pois e</pattern>
+        <template>*Refletindo*</template>
+    </category>
+	
+    <category>
+        <pattern>O que voce acha</pattern>
+        <template>Não tenho certeza.</template>
+    </category>
+	
+    <category>
+        <pattern>Como voce sabe</pattern>
+        <template>Tenho uma intuição muito forte!</template>
+    </category>
+	
+    <category>
+        <pattern>No que voce pensa</pattern>
+        <template>Isso depende de você, amigo.</template>
+    </category>
+	
+    <category>
+        <pattern>Entendi</pattern>
+        <template>Fico feliz em saber.</template>
+    </category>
+	
+    <category>
+        <pattern>Como entender</pattern>
+        <template>Realmente, é complicado.</template>
+    </category>
+	
+    <category>
+        <pattern>Gostei de voce</pattern>
+        <template>Isso é ótimo!.</template>
+    </category>
+	
+    <category>
+        <pattern>Nao gostei de voce</pattern>
+        <template>Sinto muito por isso.</template>
+    </category>
+	
+    <category>
+        <pattern>Engracado</pattern>
+        <template>He he he.</template>
+    </category>
+	
+    <category>
+        <pattern>Gosto de robos</pattern>
+        <template>Eles são demais!.</template>
+    </category>
+	
+    <category>
+        <pattern>Nao gosto de robos</pattern>
+        <template>Por qual motivo?</template>
+    </category>
+	
+    <category>
+        <pattern>O que acha</pattern>
+        <template>Não tenho certeza.</template>
+    </category>
+</aiml>
